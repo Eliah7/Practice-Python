@@ -1,5 +1,5 @@
 """Up until now this program generates similar strings only
-             with regards to occurance and not in order of occurance"""
+   with regards to occurance and not in order of occurance"""
 
 import random as rn
 import math as mt
