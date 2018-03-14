@@ -58,8 +58,8 @@ def remain_amount(f_jug,s_jug,amount=2):
     else:
         raise JugException
 
-first_jug = Jug(4)
-second_jug = Jug(3)
+first_jug = Jug(7)
+second_jug = Jug(4)
 
 first_jug = remain_amount(first_jug,second_jug,amount=2)
 print(first_jug)
